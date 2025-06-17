@@ -1,14 +1,22 @@
 # Hi, I'm Ravi Maurya 👋
 
-I'm a passionate **Senior DevOps Engineer/ Site Reliability Engineer** with cloud automation, Kubernetes, and CI/CD pipelines expertise. I love building scalable, automated infrastructure to streamline operations. When I'm not coding, you'll find me learning new technologies or exploring the world of Python and cloud computing as there is a lot to learn and experience in this world. 
-I may not contribute so much to my personal GitHub profile, because I'm usually busy working in private GitHub repositories that aren't owned by me!
+I'm a passionate **Senior DevOps Engineer/ Site Reliability Engineer** with expertise in cloud automation, Kubernetes, Observability, and Continuous delivery. My work involves helping teams build scalable, automated infrastructure to streamline operations with a rich experience working with global teams. I have extensive knowledge and expertise in software development, operations, and architecture using cloud computing services, focusing on ensuring applications' availability, reliability, and scalability. I always look forward to career progression by shouldering broader responsibilities and achieving organizational goals, while furthering personal and professional development.
+
+When I'm not working, you'll find me learning new technologies or exploring the world of cloud computing, as there is a lot to learn and experience in this world. 
+I may not contribute so much to my personal GitHub profile, because I'm usually busy working in private GitHub repositories that I don't own!
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, Java, Go.
-- **Cloud:** AWS, Azure, OCI.
-- **Containers:** Docker and Kubernetes.
-- **CI/CD:** Jenkins, GitHub Actions, GitLab CI
+- **Languages:**  Deutsch (Learning), English (full proficiency/Native), Hindi (Native), Punjabi (Native)
+- **Intelligence:** DevOps, SRE, Digital Marketing, Airline Domain, Geo-Informatics
+- **Programming:** Python, Go, Java,
+- **Cloud Native Tools:** Docker, Git, Helm, Kubernetes, Kustomize, Terraform
+- **Cloud Services:** Amazon Web Services (AWS), Azure, Oracle Cloud Infrastructure (OCI)
+- **GitOps and CI/CD:** ArgoCD, Flux, GitlabCI, Jenkins
+- **Observability:** Grafana, Logstash, Lightstep, OpenSearch, Prometheus, Thanos
+- **Database:** MySQL server, Postgres, Oracle Databases
+- **IAM Tools:** KeyCloak, Auth0, Okta
+
 
 ## 🧾 Certifications (Current & Expired)
 - Certified Kubernetes Administrator (CKA).
