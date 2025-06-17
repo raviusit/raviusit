@@ -1,8 +1,8 @@
 # Hi, I'm Ravi Maurya 👋
 
-I'm a passionate **Senior DevOps Engineer/ Site Reliability Engineer** with expertise in cloud automation, Kubernetes, Observability, and Continuous delivery. My work involves helping teams build scalable, automated infrastructure to streamline operations with a rich experience working with global teams. I have extensive knowledge and expertise in software development, operations, and architecture using cloud computing services, focusing on ensuring applications' availability, reliability, and scalability. I always look forward to career progression by shouldering broader responsibilities and achieving organizational goals, while furthering personal and professional development.
+I'm a passionate **Senior DevOps Engineer/ Site Reliability Engineer** with expertise in cloud automation, Kubernetes, Observability, and Continuous delivery. My work involves helping teams build scalable, automated infrastructure to streamline operations with a rich experience working with global teams. I possess extensive knowledge and expertise in software development, operations, and architecture, utilizing cloud computing services to ensure the availability, reliability, and scalability of applications. I always look forward to career progression by shouldering broader responsibilities and achieving organizational goals, while furthering personal and professional development.
 
-When I'm not working, you'll find me learning new technologies or exploring the world of cloud computing, as there is a lot to learn and experience in this world. 
+When I'm not working, you'll find me learning new technologies or exploring the world of cloud computing, as there is a wealth of knowledge and experiences to be gained in this field. 
 I may not contribute so much to my personal GitHub profile, because I'm usually busy working in private GitHub repositories that I don't own!
 
 ## 🔧 Technologies & Tools
@@ -32,9 +32,9 @@ I may not contribute so much to my personal GitHub profile, because I'm usually 
 
 ## 🚀 Featured Projects
 
-- [k8s-node-doctor](https://github.com/raviusit/k8s-node-doctor) - A useful k8s utility tool which runs as DaemonSet written in python to do network connectivity healthchecks.
-- [k8s-pvc-clean-up](https://github.com/raviusit/k8s-pvc-clean-up) - A useful CronJob k8s utility tool built in python to notify orphan persistent volumes via slack and delete them if required.
-- [terraform-aws-spend-controller](https://github.com/raviusit/terraform-aws-spend-controller) - A Terraform-based wrapper for AWS Nuke, to allow more control around AWS spending in personal/sandbox AWS accounts.
+- [k8s-node-doctor](https://github.com/raviusit/k8s-node-doctor) - A useful k8s utility tool which runs as a DaemonSet written in Python to do network connectivity health checks.
+- [k8s-pvc-clean-up](https://github.com/raviusit/k8s-pvc-clean-up) - A useful CronJob k8s utility tool built in Python to notify orphan persistent volumes via Slack and delete them if required.
+- [terraform-aws-cost-controller](https://github.com/raviusit/terraform-aws-cost-controller) - A Terraform-based wrapper for AWS Nuke, to allow more control around AWS spending in personal/sandbox AWS accounts.
 
 ## 📈 GitHub Stats
 
